@@ -20,3 +20,8 @@ public class MouseControl {
 	}
 
 }
+package Controls;
+
+public class MouseControl {
+
+}
